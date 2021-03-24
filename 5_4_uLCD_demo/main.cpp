@@ -1,7 +1,5 @@
 // uLCD-144-G2 basic text demo program for uLCD-4GL LCD driver library
 
-//
-
 #include "mbed.h"
 
 #include "uLCD_4DGL.h"
@@ -38,4 +36,4 @@ int main()
 
     }
 
-}
+} 

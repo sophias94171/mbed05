@@ -65,7 +65,7 @@ int main()
 
 */
 
-// Example 3 Display ADC input data
+/* Example 3 Display ADC input data
 
 #include "mbed.h"
 
@@ -109,8 +109,9 @@ int main()
       }
 
 }
+*/
 
-/* demo
+// demo
 #include "mbed.h"
 
 #include "TextLCD.h"
@@ -146,4 +147,3 @@ int main()
       }
 
 }
-*/
